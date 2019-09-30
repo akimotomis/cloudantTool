@@ -1,0 +1,5 @@
+# Node.js modules:
+node_modules/
+
+# Local dev env:
+settings.*
